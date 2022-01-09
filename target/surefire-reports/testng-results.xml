@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-24T12:27:47 IST" name="Suite" finished-at="2021-12-24T12:29:28 IST" duration-ms="101082">
+    <groups>
+    </groups>
+    <test started-at="2021-12-24T12:27:47 IST" name="Test" finished-at="2021-12-24T12:29:28 IST" duration-ms="101082">
+      <class name="com.mypackege.TC02_ImgBB">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mypackege.TC02_ImgBB@3427b02d]" started-at="2021-12-24T12:27:47 IST" name="setup" finished-at="2021-12-24T12:28:05 IST" duration-ms="17743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.mypackege.TC02_ImgBB@3427b02d]" started-at="2021-12-24T12:28:05 IST" name="test" finished-at="2021-12-24T12:28:07 IST" duration-ms="2067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mypackege.TC02_ImgBB@3427b02d]" started-at="2021-12-24T12:28:07 IST" name="tearDown" finished-at="2021-12-24T12:28:07 IST" duration-ms="712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mypackege.TC02_ImgBB -->
+      <class name="com.mypackege.TC13_Frames">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mypackege.TC13_Frames@243c4f91]" started-at="2021-12-24T12:29:02 IST" name="setup" finished-at="2021-12-24T12:29:20 IST" duration-ms="17941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.mypackege.TC13_Frames@243c4f91]" started-at="2021-12-24T12:29:20 IST" name="test" finished-at="2021-12-24T12:29:22 IST" duration-ms="1873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mypackege.TC13_Frames@243c4f91]" started-at="2021-12-24T12:29:22 IST" name="teardown" finished-at="2021-12-24T12:29:22 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mypackege.TC13_Frames -->
+      <class name="com.mypackege.TC11_Goibibo">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mypackege.TC11_Goibibo@7722c3c3]" started-at="2021-12-24T12:28:33 IST" name="setup" finished-at="2021-12-24T12:29:06 IST" duration-ms="32554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.mypackege.TC11_Goibibo@7722c3c3]" started-at="2021-12-24T12:29:06 IST" name="test" finished-at="2021-12-24T12:29:13 IST" duration-ms="7718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mypackege.TC11_Goibibo@7722c3c3]" started-at="2021-12-24T12:29:13 IST" name="teardown" finished-at="2021-12-24T12:29:14 IST" duration-ms="1171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mypackege.TC11_Goibibo -->
+      <class name="com.mypackege.TC01_SwagLabs">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mypackege.TC01_SwagLabs@72f926e6]" started-at="2021-12-24T12:27:47 IST" name="setup" finished-at="2021-12-24T12:28:02 IST" duration-ms="15048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.mypackege.TC01_SwagLabs@72f926e6]" started-at="2021-12-24T12:28:02 IST" name="test" finished-at="2021-12-24T12:28:11 IST" duration-ms="8720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mypackege.TC01_SwagLabs@72f926e6]" started-at="2021-12-24T12:28:11 IST" name="tearDown" finished-at="2021-12-24T12:28:11 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mypackege.TC01_SwagLabs -->
+      <class name="com.mypackege.TC08_SeleniumSearch">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mypackege.TC08_SeleniumSearch@619713e5]" started-at="2021-12-24T12:28:15 IST" name="setup" finished-at="2021-12-24T12:28:23 IST" duration-ms="7574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.mypackege.TC08_SeleniumSearch@619713e5]" started-at="2021-12-24T12:28:23 IST" name="test" finished-at="2021-12-24T12:28:29 IST" duration-ms="5877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mypackege.TC08_SeleniumSearch@619713e5]" started-at="2021-12-24T12:28:29 IST" name="teardown" finished-at="2021-12-24T12:28:33 IST" duration-ms="4380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mypackege.TC08_SeleniumSearch -->
+      <class name="com.mypackege.TC04_SnapDeal">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mypackege.TC04_SnapDeal@41fbdac4]" started-at="2021-12-24T12:27:47 IST" name="setup" finished-at="2021-12-24T12:28:04 IST" duration-ms="17185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.mypackege.TC04_SnapDeal@41fbdac4]" started-at="2021-12-24T12:28:04 IST" name="test" finished-at="2021-12-24T12:28:15 IST" duration-ms="10826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mypackege.TC04_SnapDeal@41fbdac4]" started-at="2021-12-24T12:28:15 IST" name="teardown" finished-at="2021-12-24T12:28:15 IST" duration-ms="425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mypackege.TC04_SnapDeal -->
+      <class name="com.mypackege.TC10_GoogleSearchInNewWindow">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mypackege.TC10_GoogleSearchInNewWindow@68999068]" started-at="2021-12-24T12:28:25 IST" name="setup" finished-at="2021-12-24T12:28:33 IST" duration-ms="7912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.mypackege.TC10_GoogleSearchInNewWindow@68999068]" started-at="2021-12-24T12:28:33 IST" name="test" finished-at="2021-12-24T12:28:59 IST" duration-ms="26382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mypackege.TC10_GoogleSearchInNewWindow@68999068]" started-at="2021-12-24T12:28:59 IST" name="teardown" finished-at="2021-12-24T12:29:04 IST" duration-ms="5117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mypackege.TC10_GoogleSearchInNewWindow -->
+      <class name="com.mypackege.TC03_Gmail">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mypackege.TC03_Gmail@647e447]" started-at="2021-12-24T12:27:47 IST" name="setup" finished-at="2021-12-24T12:28:02 IST" duration-ms="15275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.mypackege.TC03_Gmail@647e447]" started-at="2021-12-24T12:28:02 IST" name="test" finished-at="2021-12-24T12:28:51 IST" duration-ms="49210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mypackege.TC03_Gmail@647e447]" started-at="2021-12-24T12:28:51 IST" name="tearDown" finished-at="2021-12-24T12:29:02 IST" duration-ms="11023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mypackege.TC03_Gmail -->
+      <class name="com.mypackege.TC12_POIBrowser">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mypackege.TC12_POIBrowser@2ef3eef9]" started-at="2021-12-24T12:28:48 IST" name="setup" finished-at="2021-12-24T12:28:49 IST" duration-ms="1267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.mypackege.TC12_POIBrowser@2ef3eef9]" started-at="2021-12-24T12:28:49 IST" name="test" finished-at="2021-12-24T12:29:28 IST" duration-ms="38766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mypackege.TC12_POIBrowser@2ef3eef9]" started-at="2021-12-24T12:29:28 IST" name="teardown" finished-at="2021-12-24T12:29:28 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mypackege.TC12_POIBrowser -->
+      <class name="com.mypackege.TC05_FlipKart">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mypackege.TC05_FlipKart@3c407114]" started-at="2021-12-24T12:27:47 IST" name="setup" finished-at="2021-12-24T12:28:03 IST" duration-ms="16494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.mypackege.TC05_FlipKart@3c407114]" started-at="2021-12-24T12:28:03 IST" name="test" finished-at="2021-12-24T12:28:22 IST" duration-ms="18565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mypackege.TC05_FlipKart@3c407114]" started-at="2021-12-24T12:28:22 IST" name="teardown" finished-at="2021-12-24T12:28:23 IST" duration-ms="865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mypackege.TC05_FlipKart -->
+      <class name="com.mypackege.TC06_Amazon">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mypackege.TC06_Amazon@35ef1869]" started-at="2021-12-24T12:28:07 IST" name="setup" finished-at="2021-12-24T12:28:27 IST" duration-ms="19733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.mypackege.TC06_Amazon@35ef1869]" started-at="2021-12-24T12:28:27 IST" name="test" finished-at="2021-12-24T12:29:04 IST" duration-ms="36923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mypackege.TC06_Amazon@35ef1869]" started-at="2021-12-24T12:29:04 IST" name="teardown" finished-at="2021-12-24T12:29:06 IST" duration-ms="1616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mypackege.TC06_Amazon -->
+      <class name="com.mypackege.TC09_GoogleSearchInNewTab">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mypackege.TC09_GoogleSearchInNewTab@708f5957]" started-at="2021-12-24T12:28:23 IST" name="setup" finished-at="2021-12-24T12:28:31 IST" duration-ms="8427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.mypackege.TC09_GoogleSearchInNewTab@708f5957]" started-at="2021-12-24T12:28:31 IST" name="test" finished-at="2021-12-24T12:28:47 IST" duration-ms="15498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mypackege.TC09_GoogleSearchInNewTab@708f5957]" started-at="2021-12-24T12:28:47 IST" name="teardown" finished-at="2021-12-24T12:28:48 IST" duration-ms="1028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mypackege.TC09_GoogleSearchInNewTab -->
+      <class name="com.mypackege.TC07_GoogleLinks">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mypackege.TC07_GoogleLinks@c33b74f]" started-at="2021-12-24T12:28:11 IST" name="setup" finished-at="2021-12-24T12:28:19 IST" duration-ms="8373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.mypackege.TC07_GoogleLinks@c33b74f]" started-at="2021-12-24T12:28:19 IST" name="test" finished-at="2021-12-24T12:28:24 IST" duration-ms="5260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mypackege.TC07_GoogleLinks@c33b74f]" started-at="2021-12-24T12:28:24 IST" name="teardown" finished-at="2021-12-24T12:28:25 IST" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mypackege.TC07_GoogleLinks -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
